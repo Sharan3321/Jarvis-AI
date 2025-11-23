@@ -1,0 +1,32 @@
+# Environment variables (API keys, secrets)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary data
+Frontend/Files/*.data
+Data/ChatLog.json
+
+# Logs
+*.log
