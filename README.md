@@ -38,14 +38,3 @@ Frontend/ (GUI + temp files)
 Data/ChatLog.json
 ```
 
-## Config Notes
-`.env` sets display names. `Data/ChatLog.json` keeps history. Image generation writes a flag to `Frontend/Files/ImageGeneration.data`.
-
-## License
-Add a license (e.g., MIT) here.
-
-## Caution
-Automation can run system tasks; review `Backend/Automation.py` before enabling everywhere.
-
----
-Minimal README version. For more detail restore the previous revision if needed.
